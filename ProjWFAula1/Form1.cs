@@ -36,9 +36,7 @@ namespace ProjWFAula1
 
         private void LoadGrid()
         {
-            dGVDados.Columns.Clear();
             dGVDados.DataSource = Crud().GetAll();
-            dGVDados.Refresh();
         }
 
         private Funcionario getFuncionario()

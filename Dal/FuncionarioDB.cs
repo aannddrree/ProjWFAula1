@@ -13,7 +13,13 @@ namespace Dal
 
         public List<Funcionario> GetAll()
         {
-            return lst;
+            var lstOut = new List<Funcionario>();
+
+            foreach (var item in lst)
+            {
+                lstOut.Add(item);
+            }
+            return lstOut;
         }
 
         public bool Insert(Funcionario funcionario)
