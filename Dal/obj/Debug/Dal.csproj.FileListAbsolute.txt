@@ -1,0 +1,9 @@
+C:\Users\André\source\repos\ProjWFAula1\Dal\bin\Debug\Dal.dll
+C:\Users\André\source\repos\ProjWFAula1\Dal\bin\Debug\Dal.pdb
+C:\Users\André\source\repos\ProjWFAula1\Dal\bin\Debug\Model.dll
+C:\Users\André\source\repos\ProjWFAula1\Dal\bin\Debug\Model.pdb
+C:\Users\André\source\repos\ProjWFAula1\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\André\source\repos\ProjWFAula1\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ProjWFAula1\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\André\source\repos\ProjWFAula1\Dal\obj\Debug\Dal.dll
+C:\Users\André\source\repos\ProjWFAula1\Dal\obj\Debug\Dal.pdb

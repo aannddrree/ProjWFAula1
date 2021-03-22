@@ -1,0 +1,15 @@
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\ProjWFAula1.exe.config
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\ProjWFAula1.exe
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\ProjWFAula1.pdb
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.csprojAssemblyReference.cache
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.Form1.resources
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.Properties.Resources.resources
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.csproj.GenerateResource.cache
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.csproj.CoreCompileInputs.cache
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.exe
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.pdb
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\Dal.dll
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\Model.dll
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\Dal.pdb
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\bin\Debug\Model.pdb
+C:\Users\André\source\repos\ProjWFAula1\ProjWFAula1\obj\Debug\ProjWFAula1.csproj.CopyComplete
