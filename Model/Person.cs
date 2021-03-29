@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Model
 {
-    public abstract class Pessoa
+    public abstract class Person
     {
 
         #region Propriedades
 
         public int Id { get; set; }
-        public string Nome { get; set; }
-        public string Telefone { get; set; }
+        public string Name { get; set; }
+        public string Telephone { get; set; }
 
         #endregion
 

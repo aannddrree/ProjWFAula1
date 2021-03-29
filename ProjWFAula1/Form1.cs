@@ -21,13 +21,13 @@ namespace ProjWFAula1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-           // LoadGrid();
+           //LoadGrid();
         }
 
         private void btnSalvar_Click(object sender, EventArgs e)
         {
-            var funcionario = getFuncionario();
-            if (Crud().Insert(funcionario))
+            var employee = getEmployee();
+            if (Crud().Insert(employee))
             {
                 MessageBox.Show("Inserido com sucesso!");
                 LoadGrid();
@@ -39,19 +39,18 @@ namespace ProjWFAula1
             dGVDados.DataSource = Crud().GetAll();
         }
 
-        private Funcionario getFuncionario()
+        private Employee getEmployee()
         {
-            return new Funcionario
+            return new Employee
             {
-                Id = int.Parse(txtId.Text),
-                Nome = txtNome.Text,
-                Telefone = txtTelefone.Text
+                Name = txtNome.Text,
+                Telephone = txtTelefone.Text
             };
         }
 
-        private IFuncionarioDB Crud()
+        private IEmployeeDB Crud()
         {
-            return new FuncionarioDB();
+            return new EmployeeDB();
         }
 
     }
